@@ -1,11 +1,11 @@
 import React from 'react';
-import Header from '../components/Header';
-import Hero from '../components/Hero';
-import PortfolioSection from '../components/PortfolioSection';
-import MilestonesSection from '../components/MilestonesSection';
-import PhilosophySection from '../components/PhilosophySection';
-import SkillsSection from '../components/SkillsSection';
-import ContactSection from '../components/ContactSection';
+import Header from './Header';
+import Hero from './Hero';
+import PortfolioSection from './PortfolioSection';
+import MilestonesSection from './MilestonesSection';
+import PhilosophySection from './PhilosophySection';
+import SkillsSection from './SkillsSection';
+import ContactSection from './ContactSection';
 
 const App: React.FC = () => {
   return (

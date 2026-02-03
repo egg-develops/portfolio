@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { MILESTONES } from '../constants';
+import { MILESTONES } from '../../constants';
 
 const MilestonesSection: React.FC = () => {
   return (

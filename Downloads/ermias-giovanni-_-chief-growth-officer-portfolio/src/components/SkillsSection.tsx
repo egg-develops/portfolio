@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { SKILLS, MARTECH } from '../constants';
+import { SKILLS, MARTECH } from '../../constants';
 
 const SkillsSection: React.FC = () => {
   return (

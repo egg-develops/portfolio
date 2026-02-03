@@ -1,5 +1,5 @@
 import React from 'react';
-import { PROJECTS } from '../constants';
+import { PROJECTS } from '../../constants';
 
 const PortfolioSection: React.FC = () => {
   return (
