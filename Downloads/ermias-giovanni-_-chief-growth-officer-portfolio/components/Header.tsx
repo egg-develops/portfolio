@@ -21,8 +21,8 @@ const Header: React.FC = () => {
   const navLinks = [
     { name: 'Portfolio', href: '#portfolio' },
     { name: 'Timeline', href: '#milestones' },
-    { name: 'The Method', href: '#philosophy' },
-    { name: 'Arsenal', href: '#skills' },
+    { name: 'My Methods', href: '#philosophy' },
+    { name: 'Skills', href: '#skills' },
   ];
 
   return (
@@ -32,7 +32,6 @@ const Header: React.FC = () => {
       <div className="max-w-7xl mx-auto px-6 flex justify-between items-center">
         <a href="#intro" className="flex flex-col group">
           <span className="text-xl font-black tracking-tighter group-hover:text-indigo-400 transition-colors uppercase">Ermias Giovanni</span>
-          <span className="text-[9px] uppercase tracking-[0.4em] text-indigo-500 font-bold">Growth & Marketing Leader </span>
         </a>
         
         <div className="hidden lg:flex items-center space-x-10">
@@ -70,7 +69,7 @@ const Header: React.FC = () => {
           href="#contact" 
           className="px-6 py-2.5 bg-indigo-600 text-white rounded-xl text-xs font-bold uppercase tracking-widest hover:bg-white hover:text-black transition-all shadow-xl active:scale-95"
         >
-          Work With Me
+          Let's Connect
         </a>
       </div>
     </nav>

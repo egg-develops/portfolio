@@ -31,7 +31,7 @@ const Hero: React.FC = () => {
             <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-indigo-400 opacity-75"></span>
             <span className="relative inline-flex rounded-full h-2 w-2 bg-indigo-500"></span>
           </span>
-          Chief Growth Officer
+          Marketing Leader
         </div>
         
         <h1 className="text-6xl md:text-9xl font-black mb-8 tracking-tighter leading-[0.9]">
