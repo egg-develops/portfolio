@@ -12,7 +12,7 @@
     "skipLibCheck": true,
     "types": [
       "vite/client"
-    ], "skipLibCheck": true,
+    ], 
     
     "moduleResolution": "bundler",
     "isolatedModules": true,
